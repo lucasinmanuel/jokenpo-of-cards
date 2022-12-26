@@ -1,0 +1,24 @@
+{
+  "name": "jokenpo",
+  "version": "1.0.0",
+  "description": "Jokenpô of cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasInmanuel/jokenpo-of-cards.git"
+  },
+  "author": "Lucas Emanuel Santana Dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasInmanuel/jokenpo-of-cards/issues"
+  },
+  "homepage": "https://github.com/LucasInmanuel/jokenpo-of-cards#readme",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "typescript": "^4.9.3"
+  }
+}
