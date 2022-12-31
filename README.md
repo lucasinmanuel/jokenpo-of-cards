@@ -1,6 +1,6 @@
 # Jokenpô of Cards
 
-Um jogo de cartas completamente adaptável!
+A completely adaptable card game!
 
 ## Requirements
 
@@ -21,9 +21,9 @@ After cloning the repository using the 'git clone' command, run 'npm install' fr
 
 In the `/dist/images` folder are the images of the cards:
 
-![Example of images folder](/public/example-images-folder.JPG "Example of images folder")
+![Example of images folder](/public/example-images-folder.jpg "Example of images folder")
 
-![Example of card images](/public/example-card-images.JPG "Example of card images")
+![Example of card images](/public/example-card-images.jpg "Example of card images")
 
 NOTE: The image that is the back of the card must have the name `back`\_design-default
 
@@ -31,6 +31,8 @@ NOTE: The image that is the back of the card must have the name `back`\_design-d
 
 In the `/src/index.ts` file you can configure the game creation logic:
 
-![Example of game creation logic](/public/example-game-creation-logic.JPG "Example of game creation logic")
+![Example of game creation logic](/public/example-game-creation-logic.jpg "Example of game creation logic")
 
 In the `/src/utils/ComparisonList.ts` file you can configure the game validation logic:
+
+![Example of game validation logic](/public/example-game-validation-logic.jpg "Example of game validation logic")
