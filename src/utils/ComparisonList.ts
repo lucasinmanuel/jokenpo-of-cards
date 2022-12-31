@@ -1,5 +1,5 @@
 export default class ComparisonList{
-    private list:any = {
+    private list:{} = {
         rock:(opponentCard:string)=>{
             switch(opponentCard){
                 case "rock":
