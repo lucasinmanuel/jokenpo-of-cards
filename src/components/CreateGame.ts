@@ -144,7 +144,7 @@ export default class CreateGame {
                 },4000)
             }
 
-            function randomSelectionOpponentCard(){
+            function randomSelectionOpponentCard() : Element{
                 let opponent_cards:NodeListOf<Element> =  document.querySelectorAll("#opponent_deck .card_design-default");
 
                 let i = Math.floor(Math.random() * opponent_cards.length);
